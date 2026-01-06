@@ -1,7 +1,7 @@
 ---
 title: "LaTeX preamble"
 date: 2024-06-22
-permalink: /posts/latex-preamble
+permalink: /posts/06/22/latex-preamble
 tags:
   - LaTeX
   - Math

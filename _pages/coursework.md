@@ -5,32 +5,26 @@ permalink: /coursework/
 author_profile: true
 ---
 
-- CS 189 (Machine Learning)*
-- EECS 183 (Natural Language Processing)*
-- EECS 127 (Convex Optimization)
-- EECS 126 (Probabillity and Random Processes)
-- Math 104 (Real Analysis)
-- CS 194-196 (Large Language Model Agents)*
-- CS 180 (Computer Vision and Computational Photography)*
-- CS 188 (Artificial Intelligence)
-- Math 110 (Abstract Linear Algebra)
-- CS 61B (Data Structures)
-- CS 61C (Computer Architecture)*
-- CS 61A (Computer Programming)
+- [CS 288 (Graduate NLP)](https://cal-cs288.github.io/sp26/)*
+- [CS 189 (Machine Learning)](https://eecs189.org/)
+- [CS 182 (Deep Learning)](https://eecs182.org)^
+- [EECS 183 (Natural Language Processing)](https://cal-nlp-class.github.io/fa25/)
+- [CS 185 (Reinforcement Learning)](https://rail.eecs.berkeley.edu/deeprlcourse/)*
+- [CS 180 (Computer Vision and Computational Photography)](https://cal-cs180.github.io)
+- [CS 294-258 (Computational Models of Language Use)](https://www.alanesuhr.com/294_sp24.html)*
+- [EECS 106A (Introduction to Robotics)](https://www2.eecs.berkeley.edu/Courses/EECSC106A/)*
+- [EECS 127 (Convex Optimization)](https://www2.eecs.berkeley.edu/Courses/EECS127/)
+- [EECS 126 (Probabillity and Random Processes)](https://www2.eecs.berkeley.edu/Courses/EECS126/)
+- [CDSS 94 (Full-Stack Post-Training)](https://www.notion.so/CDSS-94-Full-Stack-Post-Training-From-Product-Model-Design-to-RL-Tuned-AI-Agents-2c3ae89687378083aa11db8be079e2ef/)*
+- [Math 104 (Real Analysis)](https://graduate.catalog.berkeley.edu/courses/1145091)^
+- [CS 194-196 (Large Language Model Agents)](https://rdi.berkeley.edu/agentic-ai)
+- [CS 188 (Artificial Intelligence)](https://www2.eecs.berkeley.edu/Courses/CS188/)
+- [Math 110 (Abstract Linear Algebra)](https://undergraduate.catalog.berkeley.edu/courses/1145111)
+- [CS 61B (Data Structures)](https://datastructur.es)
+- [CS 61C (Computer Architecture)](https://cs61c.org)^
+- [CS 61A (Computer Programming)](https://cs61a.org)
 
 
 \* denotes current enrollment
 
-## Spring 2026
-- CS C280 (Graduate Computer Vision)
-- CS 288 (Graduate NLP)
-- EECS 106A (Introduction to Robotics)
-- CS 185 (Reinforcement Learning)
-
-## Spring 2027
-
-TBD
-
-## Fall 2027
-
-TBD
+^ self-studied (followed lectures and assignments without receiving a letter grade)
