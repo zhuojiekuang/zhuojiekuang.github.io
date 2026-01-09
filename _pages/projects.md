@@ -101,7 +101,3 @@ All code can be found in this [link](https://thinfi.com/0lbj3).
 **Amateur keyboard player** \| [Recordings](https://www.youtube.com/watch?v=hnmUMC_tGN8)
 - Demoted from concert grand pianist to digital keyboardist
 - Currently sporting a pirated setup with Garritan Yamaha CFX and various transcription tools
-
-**Crow whispering** \| [Report](../posts/crows)
-- Idea: expand sphere of influencing by winning command over a murder of crows
-<img src="/images/projects/crows.jpg" alt="desc" style="width:350px; display:block; margin-left: auto; margin-right: auto; margin-top: 20px;">
