@@ -11,7 +11,7 @@ All code can be found in this [link](https://thinfi.com/0lbj3).
 
 ---
 
-**Diffusion and flow matching** \| [Website]() \| [Code](https://thinfi.com/0lbj3)
+**Diffusion and flow matching** \| [Website](../posts/diffusion-flow-matching) \| [Code](https://thinfi.com/0lbj3)
 - Implemented sampling loops, classifier-free guidance, SDEdit algorithm, visual anagrams, hybrid images for the Stability AI DeepFloyd IF model
 - Trained flow matching model to do class-conditioned MNIST digit generation with UNet architecture, iterative denoising
 <img src="/images/projects/diffusion-flow-matching.png" alt="desc" style="width:550px; display:block; margin-left: auto; margin-right: auto; margin-top: 20px;">
@@ -21,7 +21,7 @@ All code can be found in this [link](https://thinfi.com/0lbj3).
 - Built model ELO leaderboard like LMArena following Bradley-Terry model
 <img src="/images/projects/chatbot-arena.png" alt="desc" style="width:450px; display:block; margin-left: auto; margin-right: auto; margin-top: 10px; margin-bottom: -10px;">
 
-**NeRF** \| [Website]() \| [Code](https://thinfi.com/0lbj3)
+**NeRF** \| [Website](../posts/nerf) \| [Code](https://thinfi.com/0lbj3)
 - Using 40 images from my camera, trained a NeRF model to render a 3D scene of an object with novel views
 - NeRF pipeline from scratch, e.g. volume rendering, sinusoidal positional encoding, ray sampling, PSNR, visualizations with `viser`
 <video src="/images/projects/nerf.mp4" style="width:300px; display:block; margin-left: auto; margin-right: auto; margin-top; 30px; margin-bottom: 30px;" autoplay loop muted playsinline></video>
@@ -54,7 +54,7 @@ All code can be found in this [link](https://thinfi.com/0lbj3).
 - Full ResNet-18 architecture in PyTorch reaching 70% validation accuracy on a sample of the Imagenet dataset
 <img src="/images/projects/resnet-18.png" alt="desc" style="width:500px; display:block; margin-left: auto; margin-right: auto; margin-top: 20px; margin-bottom: 40px;">
 
-**Automatic photo mosaics** \| [Website]() \| [Code](https://thinfi.com/0lbj3)
+**Autostitching photo mosaics** \| [Website](../posts/autostitching-photo-mosaics) \| [Code](https://thinfi.com/0lbj3)
 - Stitching images together to panoramas by estimating homographies, applying projective warping, and blending images with Laplacian pyramid
 - Automated mosaic process using Harris corners, ANMS, and RANSAC homography estimation
 
@@ -64,13 +64,17 @@ All code can be found in this [link](https://thinfi.com/0lbj3).
 **Fashion MNIST classifier** \| [Code](https://thinfi.com/0lbj3)
 - Trained a Fashion MNIST classifier invariant to shifts, rotations, and blurs with `scikit-learn`
 
-**Image filtering** \| [Website]() \| [Code](https://thinfi.com/0lbj3)
+**Image filtering** \| [Website](../posts/filters-and-frequencies) \| [Code](https://thinfi.com/0lbj3)
 - Core image processing techniques such as convolution, image sharpening, hybrid images, and multi-resolution blending using Gaussian and Laplacian pyramids
 <img src="/images/projects/oraple.jpg" alt="desc" style="width:350px; display:block; margin-left: auto; margin-right: auto; margin-top: 20px; margin-bottom: 20px;">
 
 **Autodifferentiation** \| [Code](https://thinfi.com/0lbj3)
 - Constructed computation graph of loss functions, implemented downstream gradient propagation using topological sort with Kahn's algorithm
 - Implemented SGD, Momentum, and Adam optimizers
+
+**Coloring the Prokudin-Gorskii photo collection** \| [Website](../posts/prokudin-gorskii) \| [Code](https://thinfi.com/0lbj3)
+- Aligned three color channels quickly with pyramid search
+<img src="/images/projects/prokudin-gorskii.jpg" alt="desc" style="width:350px; display:block; margin-left: auto; margin-right: auto; margin-top: 20px; margin-bottom: 20px;">
 
 **RISC-V MNIST classifier** \| [Code](https://thinfi.com/0lbj3)
 - Fully connected neural network with RISC-V Assembly
@@ -98,6 +102,6 @@ All code can be found in this [link](https://thinfi.com/0lbj3).
 - Demoted from concert grand pianist to digital keyboardist
 - Currently sporting a pirated setup with Garritan Yamaha CFX and various transcription tools
 
-**Crow whispering** \| [Report]()
+**Crow whispering** \| [Report](../posts/crows)
 - Idea: expand sphere of influencing by winning command over a murder of crows
 <img src="/images/projects/crows.jpg" alt="desc" style="width:350px; display:block; margin-left: auto; margin-right: auto; margin-top: 20px;">
