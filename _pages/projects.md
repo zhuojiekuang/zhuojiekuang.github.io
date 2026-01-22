@@ -83,7 +83,7 @@ All code can be found in this [link](https://thinfi.com/0lbj3).
 
 ---
 
-**Viso** \| [Website](https://viso.study) \| [Repo](https://github.com/orgs/viso-study/repositories) \| [Presentation](https://x.com/i/broadcasts/1BdGYZzAQeAJX)
+**Viso** \| [Website](https://viso.study) \| [Repo](https://github.com/orgs/viso-study/repositories)
 - Learning platform that transforms math questions into rich animated explanations
 - Multi-agent pipeline with `smolagents` RAG research agent, tool calling, Manim rendering agent, and planning agents
 - Won most technical project in AdventureX, Top 20 in amber.ac Hackathon
